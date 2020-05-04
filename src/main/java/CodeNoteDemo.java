@@ -8,5 +8,6 @@
 public class CodeNoteDemo {
     public static void main(String[] args) {
         System.out.println("Hello, Shekhar!!!");
+        System.out.println("Task completed - Added Project to Git");
     }
 }
